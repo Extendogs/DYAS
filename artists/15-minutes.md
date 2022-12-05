@@ -1,6 +1,6 @@
 # 15 Minutes
 
-[15 Minutes on Discogs](https://www.discogs.com/artist/5254381-15-Minutes-3)
+[Discogs](https://www.discogs.com/artist/5254381-15-Minutes-3)
 
 | Member | Role |
 |---|---|

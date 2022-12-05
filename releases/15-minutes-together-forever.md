@@ -1,6 +1,6 @@
 # 15 Minutes - Together Forever
 
-![Cover image for 15 Minutes](images/15-minutes-together-forever.jpg)
+![Cover image for 15 Minutes - Together Forever](images/15-minutes-together-forever.jpg)
 
 | Format | Cat No. | Available |
 |---|---|---|
