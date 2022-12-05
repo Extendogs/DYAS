@@ -4,4 +4,4 @@
 
 | Release | Format | Date |
 |---|---|---|
-| [Broken Strings And Broken Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md.md) | EP | 2007-07-03 |
+| [Broken Strings And Broken Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | 2007-07-03 |
