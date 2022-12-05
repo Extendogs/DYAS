@@ -16,7 +16,8 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <img src="logo/logo.svg" alt="Logo of DYAS" style="width:100px;float: left;"/> <p>{{default: site.description}}</p>
+      <img src="logo/logo.svg" alt="Logo of DYAS" style="width:100px;"/>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
