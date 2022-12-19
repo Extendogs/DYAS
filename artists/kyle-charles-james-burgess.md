@@ -1,8 +1,7 @@
-# Sean Arnold
+# Kyle Charles James Burgess
 
 [Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Bass, Vocals |
-| [Sunset Squad](sunset-squad.md) | - |
+| [Wecamefromwolves](wecamefromwolves.md) | - |

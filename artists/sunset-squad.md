@@ -21,3 +21,4 @@
 | Appearing On | Date |
 |---|---|
 [Make Yer Ane Comp!](../releases/various-make-yer-ane-comp.md)  | 2008-11-15 |
+[Make Yer Ane Comp 2](../releases/various-make-yer-ane-comp-2.md)  | 2011-08-26 |

@@ -1,8 +1,7 @@
-# Sean Arnold
+# Dan Crombie
 
 [Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Bass, Vocals |
-| [Sunset Squad](sunset-squad.md) | - |
+| [You Dead!](you-dead.md) | - |

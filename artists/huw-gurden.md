@@ -1,8 +1,7 @@
-# Sean Arnold
+# Huw Gurden
 
 [Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
 
 | Act | Role |
 |---|---|
-| [Bonehouse](bonehouse.md) | Bass, Vocals |
-| [Sunset Squad](sunset-squad.md) | - |
+| [Carson Wells](carson-wells.md) | - |
