@@ -4,6 +4,10 @@
 
 [Discogs](https://www.discogs.com/artist/2127777-Tragical-History-Tour) | [Bandcamp](https://tragicalhistorytour.bandcamp.com/)
 
+| Member | Role |
+|---|---|
+| [Derrick Johnston](derrick-johnston.md) | - |
+
 | Release | Format | Date |
 |---|---|---|
 | [Broken Strings And Senseless Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | 2007-07-03 |

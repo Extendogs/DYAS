@@ -2,6 +2,6 @@
 
 [Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
 
-| Band | Role |
+| Act | Role |
 |---|---|
 | [15 Minutes](15-minutes.md) | Lyrics, Vocals |

@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|
 | 1 | [15 Minutes](../artists/15-minutes.md) | [Together Forever](../releases/15-minutes-together-forever.md) | Album | Unknown | 2006-06-06 |
 | 2 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Broken Strings And Senseless Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | Unknown | 2006-07-03 |
-| 3 | Various | [A Cheeky Wee Sampler](../releases/various-a-cheeky-wee-sampler.md) | Sampler | Unknown | 2006? |
-| 4 | [Joey Terrifying](../artists/joey-terrifying.md) | [Demo EP](../releases/joey-terrifying-demo.md) | EP | Unknown | 2006? |
+| 3 | [Various](../artists/various.md) | [A Cheeky Wee Sampler](../releases/various-a-cheeky-wee-sampler.md) | Sampler | Unknown | 2006? |
+| 4 | [Joey Terrifying](../artists/joey-terrifying.md) | [Demo EP](../releases/joey-terrifying-demo.md) | EP | Unknown | 2008 |
 | 5 | [Tragical History Tour](../artists/tragical-history-tour.md) | [A Little Death](../releases/tragical-history-tour-a-little-death.md) | EP | Unknown | 2009-07-04 |
+| 6 | [Various](../artists/various.md) | [Make Yer Ane Comp!](../releases/various-make-yer-ane-comp.md) | Compilation | Unknown | 2008-11-15 |
