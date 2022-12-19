@@ -1,5 +1,7 @@
 # Joey Terrifying
 
+[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+
 [Discogs](https://www.discogs.com/artist/1654049-Joey-Terrifying)
 
 | Release | Format | Date |

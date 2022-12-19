@@ -1,5 +1,7 @@
 # Make That A Take Records
 
+[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+
 [Website](https://www.makethatatakerecords.com/) | [Bandcamp](https://makethatatakerecords.bandcamp.com/) | [Big Cartel](https://makethatatakerecords.bigcartel.com/) | [Twitter](https://twitter.com/makethatatake) | [Facebook](https://www.facebook.com/makethatatakerecords/) | [Instagram](https://www.instagram.com/makethatatake/) | 
 [YouTube](https://www.youtube.com/user/DrDeeker)
 

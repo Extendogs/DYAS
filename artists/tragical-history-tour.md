@@ -1,5 +1,7 @@
 # Tragical History Tour
 
+[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+
 [Discogs](https://www.discogs.com/artist/2127777-Tragical-History-Tour) | [Bandcamp](https://tragicalhistorytour.bandcamp.com/)
 
 | Release | Format | Date |

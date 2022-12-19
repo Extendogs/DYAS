@@ -1,11 +1,13 @@
 # 15 Minutes
 
+[Home](../index.md) | [Labels](../labels.md) | [Artists](../artists.md)
+
 [Discogs](https://www.discogs.com/artist/5254381-15-Minutes-3)
 
 | Member | Role |
 |---|---|
-| Michael Lindsay | Guitar, Vocals |
-| Barry Kydd | Lyrics, Vocals |
+| [Michael Lindsay](michael-lindsay.md) | Guitar, Vocals |
+| [Barry Kydd](barry-kydd.md) | Lyrics, Vocals |
 
 | Release | Format | Date |
 |---|---|---|
