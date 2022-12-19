@@ -6,3 +6,4 @@
 |---|---|
 | [Joey Terrifying](joey-terrifying.md) | - |
 | [Tragical History Tour](tragical-history-tour.md) | - |
+| [Uniforms](uniforms.md) | Guitar, Vocals |

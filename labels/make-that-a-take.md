@@ -16,3 +16,4 @@
 | 6 | [Various](../artists/various.md) | [Make Yer Ane Comp!](../releases/various-make-yer-ane-comp.md) | Compilation | Unknown | 2008-11-15 |
 | 7 | [Joey Terrifying](../artists/joey-terrifying.md) | [This Is Your Future](../releases/joey-terrifying-this-is-your-future.md) | EP | Unknown | 2008? |
 | 8 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Break Ups](../releases/tragical-history-tour-break-ups.md) | EP | Unknown | 2011-01-10 |
+| 9 | [Uniforms](../artists/uniforms.md) | [Demo](../releases/uniforms-demo.md) | Demo | Unknown | 2011-10-10 |

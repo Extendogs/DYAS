@@ -9,4 +9,4 @@
 | Format | Cat No. | Available | Discogs
 |---|---|---|---|
 | CD | none | unavailable | unknown |
-| Download | none | [available](https://tragicalhistorytour.bandcamp.com/album/broken-strings-and-senseless-things-ep) | [Discogs](https://tragicalhistorytour.bandcamp.com/album/break-ups-ep)
+| Download | none | [available](https://tragicalhistorytour.bandcamp.com/album/break-ups-ep) | [Discogs](https://www.discogs.com/release/15395952-Tragical-History-Tour-Break-Ups)
