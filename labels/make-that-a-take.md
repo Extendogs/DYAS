@@ -8,7 +8,7 @@
 
 | Release | Artist | Release | Format | Cat Nos. | Date |
 |---|---|---|---|---|---|
-| 1 | [15 Minutes](../artists/15-minutes.md) | [Together Forever](../releases/15-minutes-together-forever.md) | Album | MTAT001 | 2006-06-06 |
-| 2 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Broken Strings And Senseless Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | MTAT002 | 2006-07-03 |
+| 1 | [15 Minutes](../artists/15-minutes.md) | [Together Forever](../releases/15-minutes-together-forever.md) | Album | Unknown | 2006-06-06 |
+| 2 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Broken Strings And Senseless Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | Unknown | 2006-07-03 |
 | 3 | Various | [A Cheeky Wee Sampler](../releases/various-a-cheeky-wee-sampler.md) | Sampler | Unknown | 2006? |
 | 4 | [Joey Terrifying](../artists/joey-terrifying.md) | [Demo EP](../releases/joey-terrifying-demo.md) | EP | Unknown | 2006? |
