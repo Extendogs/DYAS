@@ -4,4 +4,6 @@
 
 [Various](../artists/various.md)
 
-Unknown
+| Format | Cat No. | Available | Discogs
+|---|---|---|---|
+| CD | none | unavailable | unknown |

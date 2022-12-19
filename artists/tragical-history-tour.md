@@ -7,3 +7,4 @@
 | Release | Format | Date |
 |---|---|---|
 | [Broken Strings And Broken Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | 2007-07-03 |
+| [A Little Death](../releases/tragical-history-tour-a-little-death.md) | EP | 2009-07-04 |

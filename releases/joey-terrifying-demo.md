@@ -4,7 +4,7 @@
 
 [Joey Terrifying](../artists/joey-terrifying.md)
 
-| Format | Cat No. | Available |
-|---|---|---|
-| CD | none | unavailable |
-| Download | none | unavailable |
+| Format | Cat No. | Available | Discogs |
+|---|---|---|---|
+| CD | none | unavailable | unknown |
+| Download | none | unavailable | unknown |

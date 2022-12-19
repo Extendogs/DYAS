@@ -12,3 +12,4 @@
 | 2 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Broken Strings And Senseless Things](../releases/tragical-history-tour-broken-strings-and-senseless-things.md) | EP | Unknown | 2006-07-03 |
 | 3 | Various | [A Cheeky Wee Sampler](../releases/various-a-cheeky-wee-sampler.md) | Sampler | Unknown | 2006? |
 | 4 | [Joey Terrifying](../artists/joey-terrifying.md) | [Demo EP](../releases/joey-terrifying-demo.md) | EP | Unknown | 2006? |
+| 5 | [Tragical History Tour](../artists/tragical-history-tour.md) | [A Little Death](../releases/tragical-history-tour-a-little-death.md) | EP | Unknown | 2009-07-04 |

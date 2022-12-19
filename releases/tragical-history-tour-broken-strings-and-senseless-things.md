@@ -6,6 +6,7 @@
 
 ![Cover image for Tragical History Tour - Broken Strings And Senseless](images/tragical-history-tour-broken-strings-and-senseless-things.jpeg)
 
-| Format | Cat No. | Available |
-|---|---|---|
-| Download | none | [available](https://tragicalhistorytour.bandcamp.com/album/broken-strings-and-senseless-things-ep) |
+| Format | Cat No. | Available | Discogs
+|---|---|---|---|
+| CD | none | unavailable | unknown |
+| Download | none | [available](https://tragicalhistorytour.bandcamp.com/album/broken-strings-and-senseless-things-ep) | [Discogs](https://www.discogs.com/release/15396111-Tragical-History-Tour-Broken-Strings-and-Senseless-Things)
