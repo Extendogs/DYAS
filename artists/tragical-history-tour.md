@@ -1,6 +1,6 @@
 # Tragical History Tour
 
-[Discogs](https://www.discogs.com/release/15396111-Tragical-History-Tour-Broken-Strings-and-Senseless-Things) | [Bandcamp](https://tragicalhistorytour.bandcamp.com/)
+[Discogs](https://www.discogs.com/artist/2127777-Tragical-History-Tour) | [Bandcamp](https://tragicalhistorytour.bandcamp.com/)
 
 | Release | Format | Date |
 |---|---|---|
