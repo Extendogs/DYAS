@@ -1,0 +1,19 @@
+- name: My Markdown Link Checker
+  # You may pin to the exact commit or the version.
+  # uses: ruzickap/action-my-markdown-link-checker@39f124c071056a73244051ed835ea5652d96f6d9
+  uses: ruzickap/action-my-markdown-link-checker@v1.0.0
+  with:
+    # markdown-link-check config file
+    config_file: # optional
+    # Debug mode
+    debug: # optional
+    # Exclude files or directories
+    exclude: # optional
+    # Command line parameters for fd command. "exclude" and "search_paths" parameters are ignored if this is set
+    fd_cmd_params: # optional
+    # Quiet mode for markdown-link-check
+    quiet: # optional
+    # Set paths which should be recursively scanned for markdown files (*.md) and linted. By default all "*.md" files are checked
+    search_paths: # optional
+    # Verbose mode for markdown-link-check
+    verbose: # optional
