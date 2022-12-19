@@ -1,0 +1,41 @@
+name: markdown-link-check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  markdown-link-check:
+  name: Check markdown files for broken links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Markdown links check
+        uses: ruzickap/action-my-markdown-link-checker@v1
+        with:
+          config_file: mlc_config.json
+          debug: true
+          exclude: |
+            my_exclude_dir/md_files/
+            my_exclude_dir_2/markdown_files/
+            CHANGELOG.md
+          search_paths: |
+            check_dir_1/md_files/
+            check_dir_2/markdown_files/
+
+      - name: Markdown links check - check only 'docs' directory and exclude CHANGELOG.md
+        uses: ruzickap/action-my-markdown-link-checker@v1
+        with:
+          search_paths: |
+            docs/
+          exclude: |
+            CHANGELOG.md
+          verbose: true
+
+      - name: Markdown links check - simple example
+        uses: ruzickap/action-my-markdown-link-checker@v1
+
+      - name: Markdown links check using pre-built container
+        uses: docker://peru/my-markdown-link-checker@v1
