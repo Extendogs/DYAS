@@ -11,6 +11,7 @@
 | Release | Format | Date |
 |---|---|---|
 | [Demo](../releases/joey-terrifying-demo.md) | EP | 2008 |
+| [Complete Collection (2008​-​2010)](../releases/joey-terrifying-complete-collection.md) | Collection |  2011-09-13 |
 
 | Appearing On | Date |
 |---|---|
