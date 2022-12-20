@@ -18,6 +18,7 @@ Info on artists will go here, initially starting with those on Make That A Take 
 | [From The Cradle To The Rave](artists/from-the-cradle-to-the-rave.md) | 2010- | unknown |
 | [Joey Terrifying](artists/joey-terrifying.md) | 2008- | hiatus |
 | [Kaddish](artists/kaddish.md) | 2002- | active |
+| [Kevin Thomson](artists/kevin-thomson.md) | 2011- | active |
 | [Mafafi](artists/mafafi.md) | 2008- | unknown |
 | [Maxwell's Dead](artists/maxwells-dead.md) | 2011-2016 | inactive |
 | [Mesa Verde](artists/mesa-verde.md) | 2004-2010 | inactive |

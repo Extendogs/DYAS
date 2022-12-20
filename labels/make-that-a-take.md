@@ -18,3 +18,4 @@
 | 8 | [Tragical History Tour](../artists/tragical-history-tour.md) | [Break Ups](../releases/tragical-history-tour-break-ups.md) | EP | Unknown | 2011-01-10 |
 | 9 | [Uniforms](../artists/uniforms.md) | [Demo](../releases/uniforms-demo.md) | Demo | Unknown | 2011-10-10 |
 | 10 | [Various](../artists/various.md) | [Make Yer Ane Comp 2](../releases/various-make-yer-ane-comp-2.md) | Compilation | Unknown | 2011-08-26 |
+| 11 | [Kevin Thomson](../artists/kevin-thomson.md) | [Everything All At Once](../releases/kevin-thomson-everything-all-at-once.md) | Album | Unknown | 2011-12-28 |
