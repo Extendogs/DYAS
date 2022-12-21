@@ -4,7 +4,7 @@
 
 [Joey Terrifying](../artists/joey-terrifying.md)
 
-| Format | Cat No. | Available | Discogs |
-|---|---|---|---|
-| CD | none | unavailable | [Possibly Discogs](https://www.discogs.com/release/12659808-Joey-Terrifying-The-First-Demo) |
-| Download | none | unavailable | unknown |
+| Format | Labels | Cat No. | Available | Discogs |
+|---|---|---|---|---|
+| CD | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | [Possibly Discogs](https://www.discogs.com/release/12659808-Joey-Terrifying-The-First-Demo) |
+| Download | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | unknown |

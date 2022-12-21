@@ -6,10 +6,10 @@
 
 ![Cover image for Various - Make Yer Ane Comp!](images/various-make-yer-ane-comp.jpg)
 
-| Format | Cat No. | Available | Discogs
-|---|---|---|---|
-| CD | none | unavailable | [Discogs](https://www.discogs.com/release/9033118-Various-Make-Yer-Ane-Comp-) |
-| Download | none | [Bandcamp](https://makethatatakerecords.bandcamp.com/album/make-yer-ane-comp) | [Discogs](https://www.discogs.com/release/15194673-Various-Make-Yer-Ane-Comp-) |
+| Format | Labels | Cat No. | Available | Discogs
+|---|---|---|---|---|
+| CD | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | [Discogs](https://www.discogs.com/release/9033118-Various-Make-Yer-Ane-Comp-) |
+| Download | [Make That A Take](../labels/make-that-a-take.md) | none | [Bandcamp](https://makethatatakerecords.bandcamp.com/album/make-yer-ane-comp) | [Discogs](https://www.discogs.com/release/15194673-Various-Make-Yer-Ane-Comp-) |
 
 | Artists |
 |---|

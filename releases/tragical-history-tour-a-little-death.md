@@ -6,7 +6,7 @@
 
 ![Cover image for Tragical History Tour - A Little Death](images/tragical-history-tour-a-little-death.jpg)
 
-| Format | Cat No. | Available | Discogs |
-|---|---|---|---|
-| CD | none | unavailable | unknown |
-| Download | none | [available](https://tragicalhistorytour.bandcamp.com/album/a-little-death-ep) | [Discogs](https://www.discogs.com/release/15395993-Tragical-History-Tour-A-Little-Death)
+| Format | Labels | Cat No. | Available | Discogs |
+|---|---|---|---|---|
+| CD | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | unknown |
+| Download | [Self Released](../labels/self-released.md) | none | [available](https://tragicalhistorytour.bandcamp.com/album/a-little-death-ep) | [Discogs](https://www.discogs.com/release/15395993-Tragical-History-Tour-A-Little-Death)

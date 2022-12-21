@@ -4,6 +4,6 @@
 
 [Various](../artists/various.md)
 
-| Format | Cat No. | Available | Discogs
-|---|---|---|---|
-| CD | none | unavailable | unknown |
+| Format | Labels | Cat No. | Available | Discogs
+|---|---|---|---|---|
+| CD | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | unknown |

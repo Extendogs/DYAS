@@ -4,7 +4,7 @@
 
 [Joey Terrifying](../artists/joey-terrifying.md)
 
-| Format | Cat No. | Available | Discogs |
-|---|---|---|---|
-| CD | none | unavailable | unknown |
-| Download | none | unavailable | unknown |
+| Format | Labels | Cat No. | Available | Discogs |
+|---|---|---|---|---|
+| CD | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | unknown |
+| Download | [Make That A Take](../labels/make-that-a-take.md) | none | unavailable | unknown |
