@@ -20,3 +20,5 @@
 | 10 | [Various](../artists/various.md) | [Make Yer Ane Comp 2](../releases/various-make-yer-ane-comp-2.md) | Compilation | Unknown | 2011-08-26 |
 | 11 | [Kevin Thomson](../artists/kevin-thomson.md) | [Everything All At Once](../releases/kevin-thomson-everything-all-at-once.md) | Album | Unknown | 2011-12-28 |
 | 12 | [Joey Terrifying](../artists/joey-terrifying.md) | [Complete Collection (2008​-​2010)](../releases/joey-terrifying-complete-collection.md) | Compilation | Unknown | 2011-09-13 |
+| 13a | [Various](../artists/various.md) | [Book Yer Ane Fest V Part 1](../releases/various-book-yer-ane-fest-5-1.md) | Compilation | Unknown | 2011-10-17 |
+| 13b | [Various](../artists/various.md) | [Book Yer Ane Fest V Part 2](../releases/various-book-yer-ane-fest-5-2.md) | Compilation | Unknown | 2011-11-11 |
