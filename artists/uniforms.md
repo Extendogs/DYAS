@@ -13,6 +13,6 @@
 | [Jonny McGinty](jonny-mcginty.md) | Bass, Vocals |
 | [Luke McGinty](luke-mcginty.md) | Drums |
 
-| Release | Format | Date |
-|---|---|---|
-| [Demo](../releases/uniforms-demo.md) | Demo | 2011-10-10 |
+| Release | Labels | Format | Date |
+|---|---|---|---|
+| [Demo](../releases/uniforms-demo.md) | [Make That A Take](../labels/make-that-a-take.md) | Demo | 2011-10-10 |
