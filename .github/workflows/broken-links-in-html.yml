@@ -1,8 +1,13 @@
-uses: ScholliYT/Broken-Links-Crawler-Action@v3
-with:
-  website_url: 'https://extendogs.github.io/DYAS/'
-  exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com'
-  verbose: 'true'
-  max_retry_time: 30
-  max_retries: 5
-  max_depth: 1
+- name: broken-link-check
+  # You may pin to the exact commit or the version.
+  # uses: celinekurpershoek/link-checker@177e28a9e46fff73d80a03787e3aa8bdf14bd889
+  uses: celinekurpershoek/link-checker@v1.0.2
+  with:
+    # https://extendogs.github.io/DYAS/
+    url: # default is https://github.com/celinekurpershoek/link-checker
+    # Overwrite standard skipping rel=nofollow links
+    honorRobotExclusions: # optional, default is true
+    # Ignore urls based on patterns
+    ignorePatterns: # optional, default is 
+    # Walk through the whole website and check all the urls
+    recursiveLinks: # optional
