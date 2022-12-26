@@ -1,0 +1,20 @@
+{
+  "name": "DYAS",
+  "version": "1.0.0",
+  "description": "Test site for DYAS refactor",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Extendogs/DYAS.git"
+  },
+  "author": "Extendogs",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.1.6"
+  }
+}
