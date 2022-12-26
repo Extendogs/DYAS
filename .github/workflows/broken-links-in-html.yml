@@ -1,13 +1,16 @@
-- name: broken-link-check
-  # You may pin to the exact commit or the version.
-  # uses: celinekurpershoek/link-checker@177e28a9e46fff73d80a03787e3aa8bdf14bd889
-  uses: celinekurpershoek/link-checker@v1.0.2
-  with:
-    # https://extendogs.github.io/DYAS/
-    url: # default is https://github.com/celinekurpershoek/link-checker
-    # Overwrite standard skipping rel=nofollow links
-    honorRobotExclusions: # optional, default is true
-    # Ignore urls based on patterns
-    ignorePatterns: # optional, default is 
-    # Walk through the whole website and check all the urls
-    recursiveLinks: # optional
+name: broken-link-check
+
+on:
+  push:
+
+jobs:
+  markdown-link-check:
+    name: Check html files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Markdown links check
+        uses: celinekurpershoek/link-checker@v1.0.2
+        with:
+          quiet: true
